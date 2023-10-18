@@ -1,0 +1,4 @@
+<h1>WELCOME <br> PUTRA ALTAR KATEDRAL </h1>
+<blockquote class="blockquote2"><h2>“The celebration of Holy Mass is as valuable as the death of Jesus on the cross”</h2><cite>St. Thomas Aquinas</cite></blockquote>
+<blockquote><h2>“I am dying, but I kept my God safe to them”</h2><cite>St. Tarcisius</cite></blockquote>
+<h3 class="fw-bold">ST. TARCISIUS <br> <span class="fw-normal" style="font-style: italic; margin-top:5px; margin-bottom:5px;">Protector of the Holy Eucharist and <br> patron saint of altar serves,</span><br> PRAY FOR US</h3>

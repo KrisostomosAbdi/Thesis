@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.example.skripsi_twa",
+                 "sha256_cert_fingerprints": ["90:E7:8E:B7:9B:89:E0:6A:42:96:01:74:38:E4:30:C1:F0:F7:2F:CD:27:B8:9B:EE:30:0B:75:3F:8B:A2:16:C5"] }
+  }]

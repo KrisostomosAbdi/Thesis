@@ -1,0 +1,38 @@
+.hide {
+    display: none;
+}
+
+.showinfo:hover+.hide {
+    display: none;
+}
+
+.showinfo{
+    display: none;
+}
+
+/* @media screen 
+and (max-height:2560px) {
+.operatorbtn {
+    display: none;
+    }
+    .showinfo:hover+.hide {
+        display: block;
+        color: black;
+    }
+    .showinfo{
+        display: inline;
+    }
+} */
+
+@media screen and (max-width: 1280px){
+    .operatorbtn {
+        display: none;
+        }
+    .showinfo:hover+.hide {
+        display: block;
+        color: black;
+    }
+    .showinfo{
+        display: inline;
+    }
+}
