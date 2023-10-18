@@ -1,2 +1,3 @@
-# Thesis
-Feasibility Prediction System for Altar Servers Captain Candidates Using Naive Bayes Method
+# Feasibility Prediction System for Altar Servers Captain Candidates Using Naive Bayes Method
+
+I developed this system as my thesis at the end of my studies at Dian Nuswantoro University. This system aims to make it easier for the Altar Server Administrator at the SPM RRS Randusari Cathedral Church to select candidates for captaion, administrators, chairman and deputy chairman. This system implemented using Codeigniter 4 framework and Naive Bayes Classifier as prediction algorithm. Naïve Bayes produces predictions with high accuracy: 82.2% for captain, 78.1% for administrator, and 76.2% for chairperson-deputies.
